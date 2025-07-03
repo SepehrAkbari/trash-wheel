@@ -1,5 +1,5 @@
 ---
-title: "Baltimorians & Their Trash"
+title: "Baltimoreans & Their Trash"
 subtitle: "Investigating Trash, to get to know the People of Baltimore a little better"
 author: "Sepehr Akbari"
 date: "2024-10-16"
